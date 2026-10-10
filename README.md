@@ -19,3 +19,7 @@ Firmware/ contains one self-contained Arduino IDE sketch for the XIAO ESP32-C3. 
 
 pictures:
 <img width="1902" height="1068" alt="Screenshot 2026-10-07 172340" src="https://github.com/user-attachments/assets/83ef8d1c-98ec-4b11-b237-9fd0413c5416" />
+
+<img width="1249" height="697" alt="Screenshot 2026-10-08 213059" src="https://github.com/user-attachments/assets/e494e1a2-9803-4eb9-b55c-68980011cfea" />
+
+<img width="1902" height="1068" alt="starbie6" src="https://github.com/user-attachments/assets/d07829fb-61c1-4567-9c8a-56ee58bddf5d" />
