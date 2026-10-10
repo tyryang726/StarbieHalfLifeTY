@@ -1,12 +1,10 @@
 Starbie
-Starbie front render
 
-Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
+Starbie is a tiny motion-controlled digital pet: 3 gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board. And there is also 2 buttons in the form of keyboard switches
 
-Looking for the guide! You can find it here!
-
-What it is
-Starbie is designed to sit on your desk, show its personality on a small display, and react to how you handle it. Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.
+What it is:
+Starbie is my first beginner/starter project for Half Life from hackclub. The creature on a small display will react to how you handle it. 
+Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.
 
 The board includes a microcontroller, display, motion sensor, and environmental sensor in a compact PCB design. It is USB powered and built around beginner-friendly through-hole soldering for the add-on components.
 
