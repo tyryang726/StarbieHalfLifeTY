@@ -25,19 +25,19 @@ BILL OF MATERIALS (BOM)
 Item             Amount    Cost (ea.)    Source / Link
 
 --------------------------------------------------------------------------------
-XIAO ESP32 C3  |  1.0   |    $7.98         AliExpress (aliexpress.com/item/1005007084388623.html)
+XIAO ESP32 C3  |  1.0   |    $7.98   |     AliExpress (aliexpress.com/item/1005007084388623.html)
 
-0.96 OLED        1.0       $1.73         AliExpress (aliexpress.com/item/1005006262908701.html)
+0.96 OLED      |  1.0   |    $1.73   |      AliExpress (aliexpress.com/item/1005006262908701.html)
 
-MPU6050          1.0       $1.73         AliExpress (aliexpress.com/item/1005006262908701.html)
+MPU6050        |  1.0   |    $1.73   |      AliExpress (aliexpress.com/item/1005006262908701.html)
 
-DHT11            1.0       $1.73         AliExpress (aliexpress.com/item/1005008818897051.html)
+DHT11          |  1.0   |    $1.73   |      AliExpress (aliexpress.com/item/1005008818897051.html)
 
-MX Switches      20.0      $1.73         AliExpress (aliexpress.com/item/1005012898928151.html)
+MX Switches    |  20.0  |    $1.73   |      AliExpress (aliexpress.com/item/1005012898928151.html)
 
-10k Resistor     100.0     $1.73         AliExpress (aliexpress.com/item/1005002388905118.html)
+10k Resistor   |  100.0  |   $1.73   |      AliExpress (aliexpress.com/item/1005002388905118.html)
 
-PCB              1.0       ~$10.00       JLCPCB (jlcpcb.com)
+PCB            |  1.0    |   ~$10.00   |    JLCPCB (jlcpcb.com)
 
 --------------------------------------------------------------------------------
 Total (each kit) 1.0       ~$26.63       -
