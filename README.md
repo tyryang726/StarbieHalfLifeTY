@@ -19,9 +19,11 @@ Firmware/ contains one self-contained Arduino IDE sketch for the XIAO ESP32-C3. 
 
 ================================================================================
 BILL OF MATERIALS (BOM)
+
 ================================================================================
 
 Item             Amount    Cost (ea.)    Source / Link
+
 --------------------------------------------------------------------------------
 XIAO ESP32 C3    1.0       $7.98         AliExpress (aliexpress.com/item/1005007084388623.html)
 
@@ -34,9 +36,12 @@ DHT11            1.0       $1.73         AliExpress (aliexpress.com/item/1005008
 MX Switches      20.0      $1.73         AliExpress (aliexpress.com/item/1005012898928151.html)
 
 10k Resistor     100.0     $1.73         AliExpress (aliexpress.com/item/1005002388905118.html)
+
 PCB              1.0       ~$10.00       JLCPCB (jlcpcb.com)
+
 --------------------------------------------------------------------------------
 Total (each kit) 1.0       ~$26.63       -
+
 ================================================================================
 
 pictures:
