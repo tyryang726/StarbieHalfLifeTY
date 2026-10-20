@@ -25,8 +25,7 @@ BILL OF MATERIALS (BOM)
 Item             Amount    Cost (ea.)    Source / Link
 
 --------------------------------------------------------------------------------
-XIAO ESP32 C3  
-1.0       $7.98         AliExpress (aliexpress.com/item/1005007084388623.html)
+XIAO ESP32 C3  |  1.0   |    $7.98         AliExpress (aliexpress.com/item/1005007084388623.html)
 
 0.96 OLED        1.0       $1.73         AliExpress (aliexpress.com/item/1005006262908701.html)
 
@@ -44,7 +43,6 @@ PCB              1.0       ~$10.00       JLCPCB (jlcpcb.com)
 Total (each kit) 1.0       ~$26.63       -
 
 ================================================================================
-
 pictures:
 <img width="1902" height="1068" alt="Screenshot 2026-10-07 172340" src="https://github.com/user-attachments/assets/83ef8d1c-98ec-4b11-b237-9fd0413c5416" />
 
